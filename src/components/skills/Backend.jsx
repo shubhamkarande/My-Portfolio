@@ -19,8 +19,8 @@ const backendSkillsData = [
   { name: "Redis", level: "Intermediate" },
   { name: "AWS", level: "Advanced" },
   { name: "GCP", level: "Intermediate" },
-  { name: "Docker", level: "Intermediate" },
-  { name: "Git", level: "Advanced" },
+  { name: "Microsoft Azure", level: "Intermediate" },
+  { name: "ASP.NET", level: "Basic" },
 ];
 
 const Backend = () => {

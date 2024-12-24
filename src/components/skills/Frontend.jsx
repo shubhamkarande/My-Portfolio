@@ -13,7 +13,7 @@ const skillsData = [
   { name: "Python", level: "Advanced" },
   { name: "Dart", level: "Intermediate" },
   { name: "Rust", level: "Basic" },
-  { name: "Go", level: "Basic" },
+  { name: "Golang", level: "Basic" },
   { name: "Tailwind CSS", level: "Advanced" },
   { name: "React", level: "Advanced" },
   { name: "Angular", level: "Intermediate" },
